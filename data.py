@@ -4,12 +4,10 @@ import requests
 
 
 books = [
-    'https://www.gutenberg.org/cache/epub/1513/pg1513.txt',
-    'https://www.gutenberg.org/files/2701/2701-0.txt',
-    'https://www.gutenberg.org/cache/epub/84/pg84.txt',
-    'https://www.gutenberg.org/cache/epub/2641/pg2641.txt',
-    'https://www.gutenberg.org/cache/epub/1342/pg1342.txt',
-    'https://www.gutenberg.org/cache/epub/100/pg100.txt'
+    'https://www.gutenberg.org/ebooks/57822.txt.utf-8',
+    'https://www.gutenberg.org/ebooks/27608.txt.utf-8',
+    'https://www.gutenberg.org/ebooks/42436.txt.utf-8',
+    'https://www.gutenberg.org/ebooks/26166.txt.utf-8'
 ]
 
 allowed_chars = ' abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()-_+=\"\':;[]{}/<>,.`~\n\\'
